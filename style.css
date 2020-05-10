@@ -1,0 +1,19 @@
+ body {
+    color: #ff00ff;
+} 
+li {
+    color: #6600ff;
+    background-color: #ffd900;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+em {
+    color: #cc3300; 
+}
+h2 {
+    color: #000099;
+}
+p {
+    color: #ff2600;
+
+}
+
